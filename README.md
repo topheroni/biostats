@@ -5,3 +5,5 @@
 [Lab 2 - Turning Biology into Mathematics](Lab2)
 
 [Lab 3 - Iris Dataset](Lab3)
+
+[Lab 4 - Rice Seed Image Classification](Lab4)
