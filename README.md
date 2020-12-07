@@ -9,3 +9,5 @@
 [Lab 4 - Rice Seed Image Classification](Lab4)
 
 [Lab 5 - Flower Species Image Classification](Lab5)
+
+[Final - Skin Cancer Image Classification](Final)
