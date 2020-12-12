@@ -1,5 +1,5 @@
 # Lab Reports for Biostatistics
-
+#### All of these reports are completed in Google Colab, and the reports are compiled in Overleaf/LaTeX.
 [Lab 1 - Python Intro](Lab1)
 
 [Lab 2 - Turning Biology into Mathematics](Lab2)
